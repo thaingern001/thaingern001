@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Thaingern <br>I'm a Computer Engineering Student, from Kasetsart U. Thailand</h2>
+<h2 align="left">Hi 👋! I'm Thaingern <br>I'm a Computer Engineering Student, from Kasetsart U. Thailand</h2>
 
 ###
 
